@@ -1,4 +1,11 @@
 ### Hi there 👋
+### 🌱 I’m currently learning about MACHINE LEARNING.
+
+<div align=center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frameon&count_bg=%23D4E3FF&title_bg=%23007BFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+![Twitch Status](https://img.shields.io/twitch/status/rameon?style=for-the-badge)
+</div>
 
 <!--
 **Rameon/Rameon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
