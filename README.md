@@ -1,4 +1,4 @@
-### Hi there 👋 („•u•„)
+### Hi there ~~~ 👋 („•u•„)
 ### 🌱 I’m currently learning about MACHINE LEARNING.
 
 
