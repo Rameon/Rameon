@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning about MACHINE LEARNING.
 
- (\_(\
-(„•u•„)
- O☕️O
+### (\_(\
+### („•u•„)
+### O☕️O
 
 
 ✨ MY BLOG : [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://rameon.github.io/)](https://rameon.github.io/)
