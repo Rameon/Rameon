@@ -8,9 +8,9 @@
 </div>
 https://img.shields.io/badge/Status-LIVE-9cf
 
- ✨ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://rameon.github.io/)](https://rameon.github.io/) ✨
+### ✨ MY BLOG : [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://rameon.github.io/)](https://rameon.github.io/)
 
- ✨ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Yirameon@gmail.com)](mailto:Yirameon@gmail.com) ✨
+### ✨ MY GMAIL : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Yirameon@gmail.com)](mailto:Yirameon@gmail.com)
 	
 <!--
 **Rameon/Rameon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
