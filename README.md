@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning about MACHINE LEARNING.
 
-✨ MY BLOG : [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=appveyor&logo=github&link=https://rameon.github.io/)](https://rameon.github.io/)
+✨ MY BLOG : [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://rameon.github.io/)](https://rameon.github.io/)
 
-✨ MY GMAIL : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&link=mailto:Yirameon@gmail.com)](mailto:Yirameon@gmail.com)
+✨ MY GMAIL : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:Yirameon@gmail.com)](mailto:Yirameon@gmail.com)
 	
 <!--
 **Rameon/Rameon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
