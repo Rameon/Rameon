@@ -7,7 +7,7 @@
 <div align=center>
 ![Twitch Status](https://img.shields.io/twitch/status/rameon?style=for-the-badge)
 </div>
-
+https://img.shields.io/badge/Status-LIVE-9cf
 <!--
 **Rameon/Rameon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
