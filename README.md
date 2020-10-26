@@ -1,5 +1,5 @@
 ### Hi there ~~~ 👋 („•u•„)
-### 🌱 I’m currently learning about MACHINE LEARNING.
+### 🌱 I’m currently learning about REINFORCEMEMT LEARNING.
 
 
 
