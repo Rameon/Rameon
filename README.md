@@ -1,6 +1,6 @@
 ### Hi there ~~~ 👋 („•u•„)
-### 🌱 I’m currently learning about REINFORCEMEMT LEARNING.
-### 🔭 I’m currently working on DIGITAL TWIN.
+### 🌱 I’m currently learning about MACHINE LEARNING with Gesture Recognition.
+### 🔭 I’m currently working on Human-Machine Interface.
 
 
 ✨ MY BLOG : [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://rameon.github.io/)](https://rameon.github.io/)
