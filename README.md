@@ -1,5 +1,5 @@
 ### Hi there ~~~ 👋 („•u•„)
-### 🌱 I’m currently learning about MACHINE LEARNING with Gesture Recognition.
+### 🌱 I’m currently learning about Reinforcement Learning with Path Planning.
 ### 🔭 I’m currently working on Human-Machine Interface.
 
 
